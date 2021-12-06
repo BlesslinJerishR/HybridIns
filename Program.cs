@@ -98,7 +98,7 @@ namespace CanarysHybridIheritance
         {
             public void ChildInfoBaby()
             {
-                Console.WriteLine("You a Boy ?");
+                Console.WriteLine("You a Girl ?");
             }
         }
 
